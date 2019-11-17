@@ -17,4 +17,3 @@ for row in range(0, 4):
           max_hourglass_sum = current_hourglass_sum
 
 print (max_hourglass_sum)
-
